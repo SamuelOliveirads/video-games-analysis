@@ -6,12 +6,16 @@ This is your new Kedro project, which was generated using `Kedro 0.18.12`.
 
 Take a look at the [Kedro documentation](https://kedro.readthedocs.io) to get started.
 
-Em 2017  a indústria de games faturou mais que a indústria de música e a indústria de filmes (mídia física) juntos! É um fato que esse nicho do entretenimento conquista cada vez mais pessoas ano após ano. No Brasil mais de 66% disseram que consomem entretenimento do nicho de games.
+In 2017, the games industry made more money than the music industry and the movie industry combined! It's a fact that this entertainment niche is winning over more and more people every year. In Brazil, more than 66% said that they consume entertainment from the games niche.
 
-Em anexo você irá encontrar uma base de dados sobre o ranking de vídeo games nos últimos anos e com esse dataset você deverá apresentar as seguintes visualizações:
+The aim of the analysis is to create the following graphs and extract insights:
 
-Obs: Os valores de venda estão em milhões de dólares
+1. Histograms of the genres of the first 150 titles in the ranking.
+2. Scatter plot between year of publication and Nintendo sales from 2010 onwards.
+3. List of the top 5 publishers by sales in the United States.
+4. General pagination of sales (perhaps a dashboard or interactive table allowing paginated visualization of sales records).
 
+Here is the [solution planning](docs/planning.md)
 
 ## Rules and guidelines
 
