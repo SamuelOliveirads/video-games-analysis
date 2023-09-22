@@ -61,3 +61,8 @@ feature_engineering:
   type: pandas.CSVDataSet
   filepath: data/04_feature/feature_engineering.csv
   layer: feature
+
+exploratory_data_analysis:
+  type: pandas.CSVDataSet
+  filepath: data/04_feature/exploratory_data_analysis.csv
+  layer: feature
