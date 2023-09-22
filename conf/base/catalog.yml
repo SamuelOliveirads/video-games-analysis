@@ -41,3 +41,13 @@
 #
 # This is a data set used by the "Hello World" example pipeline provided with the project
 # template. Please feel free to remove it once you remove the example pipeline.
+
+video_game_data:
+  type: pandas.CSVDataSet
+  filepath: data/01_raw/dataset_video_games.csv
+  layer: raw
+
+data_description:
+  type: pandas.CSVDataSet
+  filepath: data/02_intermediate/data_description.csv
+  layer: intermediate
