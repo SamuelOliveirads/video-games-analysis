@@ -13,7 +13,7 @@
 1. Histograms of the genres of the first 150 titles in the ranking.
 2. Scatter plot between year of publication and Nintendo sales from 2010 onwards.
 3. List of the top 5 publishers by sales in the United States.
-4. General pagination of sales (perhaps a dashboard or interactive table allowing paginated visualization of sales records).
+4. Insight analysis.
 
 ---
 
@@ -50,5 +50,5 @@
         - Group the data by publisher and add up the sales in the USA.
         - Sort the publishers by sales and select the top 5.
 
-    - **General sales breakdown**:
-        - Depending on the tool or platform used, implement a visualization that allows sales records to be paginated, making it easier to see the data.
+    - **Insight analysis**:
+        - Validate hypotheses in order to extract insights from the data.
